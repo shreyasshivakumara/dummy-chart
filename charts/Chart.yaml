@@ -7,7 +7,7 @@ appVersion: "1.7.4.2-r0"
 keywords:
   - redis
   - socat
-  - proxy
+  - pokemon
   - tuneller
   - relay
 home: http://www.dest-unreach.org/socat/
