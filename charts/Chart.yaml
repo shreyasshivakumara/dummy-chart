@@ -1,5 +1,5 @@
 apiVersion: v2
-name: redis-proxy
+name: dummy-chart
 description: A lightweight redis proxy daemonset built on the SOCAT relay
 type: application
 version: 0.1.1
