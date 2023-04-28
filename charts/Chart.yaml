@@ -3,7 +3,7 @@ name: redis-proxy
 description: A lightweight redis proxy daemonset built on the SOCAT relay
 type: application
 version: "0.1.1"
-appVersion: "0.2.0"
+appVersion: "v0.2.0"
 keywords:
   - redis
   - socat
