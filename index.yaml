@@ -3,6 +3,28 @@ entries:
   dummy-chart:
   - apiVersion: v2
     appVersion: v0.2.0
+    created: "2023-04-28T10:36:33.742009405Z"
+    description: A lightweight redis proxy daemonset built on the SOCAT relay
+    digest: 38e59b8f9e6c880197296f3b47186f9d10b0c0833ce431a8bcb5d754c8110f69
+    home: http://www.dest-unreach.org/socat/
+    icon: https://res.cloudinary.com/qunux/image/upload/v1643320066/isometric_redis_proxy_icon_nmf5dm.png
+    keywords:
+    - redis
+    - pokemon
+    - tuneller
+    - relay
+    maintainers:
+    - email: colin@aigis.uk
+      name: colinwilson
+    name: dummy-chart
+    sources:
+    - https://github.com/colinwilson/helm-charts/tree/release/charts/redis-proxy
+    type: application
+    urls:
+    - https://github.com/shreyasshivakumara/dummy-chart/releases/download/dummy-chart-0.4.1/dummy-chart-0.4.1.tgz
+    version: 0.4.1
+  - apiVersion: v2
+    appVersion: v0.2.0
     created: "2023-04-28T10:35:01.438791426Z"
     description: A lightweight redis proxy daemonset built on the SOCAT relay
     digest: 9f260a5bc60a5ee1848a1e2868040fa66988a8b186e6334b292af255d04b6997
@@ -45,4 +67,4 @@ entries:
     urls:
     - https://github.com/shreyasshivakumara/dummy-chart/releases/download/dummy-chart-0.1.1/dummy-chart-0.1.1.tgz
     version: 0.1.1
-generated: "2023-04-28T10:35:01.438808426Z"
+generated: "2023-04-28T10:36:33.742018505Z"
