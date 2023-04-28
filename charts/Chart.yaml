@@ -4,7 +4,6 @@ description: A lightweight redis proxy daemonset built on the SOCAT relay
 type: application
 version: 0.1.1
 appVersion: "1.7.4.2-r0"
-version: 0.1.0
 keywords:
   - redis
   - socat
