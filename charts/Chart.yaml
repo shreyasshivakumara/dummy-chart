@@ -2,7 +2,7 @@ apiVersion: v2
 name: dummy-chart
 description: A lightweight redis proxy daemonset built on the SOCAT relay
 type: application
-version: 0.2.1
+version: 0.3.0
 appVersion: "v0.4.0"
 keywords:
   - redis
