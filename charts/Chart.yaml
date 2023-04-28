@@ -6,7 +6,6 @@ version: 0.1.1
 appVersion: "v0.2.0"
 keywords:
   - redis
-  - socat
   - pokemon
   - tuneller
   - relay
