@@ -7,7 +7,7 @@ appVersion: "v0.2.0"
 keywords:
   - redis
   - pokemon
-  - tuneller
+  - digimon
   - relay
 home: http://www.dest-unreach.org/socat/
 sources:
